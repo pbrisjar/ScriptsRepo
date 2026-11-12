@@ -1,0 +1,2 @@
+# ScriptsRepo
+Hi. This is a collection of scripts from my years working with databases. Most of them won't run as they reference objects that don't exist but they show some of my SQL skills. Everything has been updated to run on 2025 but since there are missing objects and they can't run I've not been able to fully test them so there may be a few errors. Let me know if you have any comments or questions.
